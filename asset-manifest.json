@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://vedantsagolale12.github.io/portfolio_web_app/static/css/main.15a01683.css",
-    "main.js": "https://vedantsagolale12.github.io/portfolio_web_app/static/js/main.b6616d11.js",
+    "main.js": "https://vedantsagolale12.github.io/portfolio_web_app/static/js/main.e057294d.js",
     "index.html": "https://vedantsagolale12.github.io/portfolio_web_app/index.html",
     "main.15a01683.css.map": "https://vedantsagolale12.github.io/portfolio_web_app/static/css/main.15a01683.css.map",
-    "main.b6616d11.js.map": "https://vedantsagolale12.github.io/portfolio_web_app/static/js/main.b6616d11.js.map"
+    "main.e057294d.js.map": "https://vedantsagolale12.github.io/portfolio_web_app/static/js/main.e057294d.js.map"
   },
   "entrypoints": [
     "static/css/main.15a01683.css",
-    "static/js/main.b6616d11.js"
+    "static/js/main.e057294d.js"
   ]
 }
