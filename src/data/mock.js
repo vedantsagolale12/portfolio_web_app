@@ -5,7 +5,7 @@ export const mockData = {
     title: "Mobile Application Developer",
     description:
       "I’m a Mobile Application Developer with expertise in Native Android and cross-platform solutions. I craft scalable, high-performance apps using Flutter, Kotlin, Kotlin Multiplatform, and Swift, focusing on responsive and user-centric design. Passionate about Machine Learning and Generative AI, I strive to build innovative mobile solutions that blend cutting-edge technology with real business impact.",
-    profileImage: process.env.PUBLIC_URL + "/public/assets/images/profile_picture.jpeg",
+    profileImage: process.env.PUBLIC_URL + "/assets/images/profile_picture.jpeg",
     socialLinks: [
       { platform: "GitHub", url: "https://github.com/vedantsagolale12", icon: "Github" },
       { platform: "LinkedIn", url: "https://www.linkedin.com/in/vedant1281/", icon: "Linkedin" },
@@ -19,7 +19,7 @@ export const mockData = {
       "I specialize in both Native Android and cross-platform development, building scalable mobile applications that deliver seamless performance and reliability. My core expertise lies in frontend technologies such as Flutter, Kotlin, Kotlin Multiplatform, and Swift, enabling me to design responsive, user-centric, and visually compelling interfaces. ",
       "Beyond mobile development, I am deeply passionate about Machine Learning and Generative AI, where I focus on integrating intelligent features that elevate user experiences. Driven by innovation, I aim to craft end-to-end digital solutions that not only meet technical standards but also align with business goals and real user needs.",
     ],
-    image: process.env.PUBLIC_URL + "/public/assets/images/dev.jpg",
+    image: process.env.PUBLIC_URL + "/assets/images/dev.jpg",
     stats: {
       experience: "1+",
       projects: "11+",
@@ -59,7 +59,7 @@ export const mockData = {
       title: "Blog Post Application",
       description:
         "It is cross platform application in flutter which specially build for android and ios .It uses clean architecture and bloc state-management alongisde all industry practices which are required to build an application.It is apllication where users can create , modify or even share their blogs to another platform.",
-      image: process.env.PUBLIC_URL + "/public/assets/images/blogPostCover.png",
+      image: process.env.PUBLIC_URL + "/assets/images/blogPostCover.png",
       technologies: ["Flutter", "Bloc-Cubit state management", "Database", "UI/UX", "Clean architecture"],
       demoUrl: "",
       githubUrl: "https://github.com/vedantsagolale12/blogPostApplication",
@@ -71,7 +71,7 @@ export const mockData = {
       title: "Photo Store Application",
       description:
         "A lightweight photo editing application built with Kotlin and Jetpack Compose, designed to let users quickly adjust brightness, contrast, saturation, and hue of an image — and save or share it instantly.",
-      image: process.env.PUBLIC_URL + "/public/assets/images/PhotoStore.png",
+      image:process.env.PUBLIC_URL + "/assets/images/PhotoStore.png",
       technologies: ["Kotlin", "Jetpack Compose", "Hilt", "Clean architecture", "UI/UX", "MVVM", "Room", "Digital Image Processing", "Color Matrix", "Color Filter"],
       demoUrl: "",
       githubUrl: "https://github.com/vedantsagolale12/PhotoStore",
@@ -82,7 +82,7 @@ export const mockData = {
       title: "Whispr",
       description:
         "Whispr is a minimal voice-powered To-Do list application built with Kotlin, Jetpack Compose, Clean Architecture, and Hilt (Dependency Injection).",
-      image: process.env.PUBLIC_URL + "/public/assets/images/Voice.jpeg",
+      image:process.env.PUBLIC_URL + "/assets/images/Voice.jpeg",
       technologies: ["kotlin", "Hilt", "Room", "Clean architecture", "State Management", "Jetpack Compose", "UI/UX", "MVVM", "Natural Language Processing"],
       demoUrl: "",
       githubUrl: "https://github.com/vedantsagolale12/VoiceTodoApp",
@@ -93,10 +93,10 @@ export const mockData = {
       title: "Vision",
       description:
         "It is cross platform mobile application in flutter which uses google ML kit package in flutter which provides services like text recognition,face detection,face mesh detection,pose detection ,object detection,and also segmentation",
-      image: process.env.PUBLIC_URL + "/public/assets/images/shared-vision.png",
+      image: process.env.PUBLIC_URL + "/assets/images/shared-vision.png",
       technologies: ["Flutter", "Natural Language Processing", "Digital Image Processing", "Google ML Ki", "MVVM", "Go-Router", "Hive", "UI/UX"],
       demoUrl: null,
-      githubUrl: "https://github.com/alexjohnson/social-api",
+      githubUrl: "https://github.com/vedantsagolale12/vision",
       featured: false,
     },
     {
@@ -104,7 +104,7 @@ export const mockData = {
       title: "Clean architecture Overview",
       description:
         "An Overview of Most used architecture at Enterprise-level app development in industry which also called as layered architecture or clean-architecture",
-      image: process.env.PUBLIC_URL + "/public/assets/images/arch.png",
+      image: process.env.PUBLIC_URL + "/assets/images/arch.png",
       technologies: ["Flutter", "Bloc", "Clean architecture"],
       demoUrl: null,
       githubUrl: "https://github.com/vedantsagolale12/flutter_layered_architecture",
@@ -115,7 +115,7 @@ export const mockData = {
       title: "Flutter Bloc essentials",
       description:
         "An Overview of Most used architecture at Enterprise-level app development in industry which also called as layered architecture or clean-architecture",
-      image: process.env.PUBLIC_URL + "/public/assets/images/bloc.png",
+      image: process.env.PUBLIC_URL + "/assets/images/bloc.png",
       technologies: ["Flutter", "Bloc", "Cubit", "Navigation", "Best Practices"],
       demoUrl: null,
       githubUrl: "https://github.com/vedantsagolale12/bloc_essentials",
